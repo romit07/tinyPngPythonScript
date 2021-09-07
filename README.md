@@ -1,4 +1,4 @@
-# tinyPngPythonScript
+# Tinypng Python script to compress images in a folder recursively
 A python script you can use to compress all images of a particular type in a folder recusively
 
 Sign up on tinypng developer account: https://tinypng.com/developers
